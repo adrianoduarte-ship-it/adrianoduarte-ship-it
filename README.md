@@ -4,4 +4,3 @@
 - 💻Focado em Python, HTML, CSS e Segurança de Rede
 - 🚀Preparando-se para o mercado de tecnologia
 - 📫Contato: adriano.cambuci@gmail.com
-- 
