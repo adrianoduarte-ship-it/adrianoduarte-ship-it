@@ -4,3 +4,5 @@
 - 💻Focado em Python, HTML, CSS e Segurança de Rede
 - 🚀Preparando-se para o mercado de tecnologia
 - 📫Contato: adriano.cambuci@gmail.com
+#🎷🎵🎶 Meu hob é tocar saxsofone
+![Balança da Justiça](https://upload.wikimedia.org/wikipedia/commons/3/3a/Scales_of_Justice.svg)
