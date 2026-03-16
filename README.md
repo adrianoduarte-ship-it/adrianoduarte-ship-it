@@ -5,6 +5,7 @@
 - 🚀Preparando-se para o mercado de tecnologia
 - 📫Contato: adriano.cambuci@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+www.linkedin.com/in/adriano-duarte-931439100
 ## ⚖️ Direito e Justiça
 - Atualmente atuo em área jurídica empresarial
 - 🏣🏡especificamente no direito imobiliário
