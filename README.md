@@ -5,5 +5,8 @@
 - 🚀Preparando-se para o mercado de tecnologia
 - 📫Contato: adriano.cambuci@gmail.com
 #🎷🎵🎶 Meu hob é tocar saxsofone
-<img src="images/balanca-justica.png" width="200">
+meu-projeto
+ ├─ README.md
+ └─ images
+     └─ balanca-justica.png
 
