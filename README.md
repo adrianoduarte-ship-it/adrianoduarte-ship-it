@@ -4,7 +4,8 @@
 - 💻Focado em Python, HTML, CSS e Segurança de Rede
 - 🚀Preparando-se para o mercado de tecnologia
 - 📫Contato: adriano.cambuci@gmail.com
-#🎷🎵🎶 Meu hob é tocar saxsofone
+- # Hobby
+#🎷🎵🎶 Meu hobby é tocar saxsofone
 ## ⚖️ Direito e Justiça
 - Atualmente atuo em área jurídica empresarial
 - 🏣🏡especificamente no direito imobiliário
