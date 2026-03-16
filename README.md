@@ -6,4 +6,5 @@
 - 📫Contato: adriano.cambuci@gmail.com
 #🎷🎵🎶 Meu hob é tocar saxsofone
 ## ⚖️ Direito e Justiça
-
+- Atualmente atuo em área jurídica empresarial
+- 🏣🏡especificamente no direito imobiliário
